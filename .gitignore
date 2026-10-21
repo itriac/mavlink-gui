@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# uv / virtualenv
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Copilot skills（不上傳）
+.github/skills/
